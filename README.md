@@ -42,7 +42,7 @@ weighted avg       1.00      1.00      1.00    370479
 
 
 
-Matriz de confusão:
+Confusion Matrix:
 +--------+--------+
 | 368488 |   38   |
 +--------+--------+
